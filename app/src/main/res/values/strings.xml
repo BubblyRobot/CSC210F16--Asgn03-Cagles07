@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ScrapBook</string>
+    <string name="title_activity_flower">FlowerActivity</string>
+    <string name="title_activity_landmark2">LandmarkActivity2</string>
+    <string name="flowers_button">Pretty Pink Flowers scrapbook</string>
+    <string name="image_of_pink_flowers">Image of Pink Flowers</string>
+    <string name="title_activity_landmark">LandmarkActivity</string>
+</resources>
